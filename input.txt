@@ -1,0 +1,13 @@
+Taheri, Shahram, and Önsen Toygar. "Multi‐stage age estimation using two level fusions of handcrafted and learned features on facial images." IET Biometrics 8.2 (2019): 124-133.
+
+Taheri, Shahram, and Zahra Golrizkhatami. "Magnification-specific and magnification-independent classification of breast cancer histopathological image using deep learning approaches." Signal, Image and Video Processing (2022): 1-9.
+
+Golrizkhatami, Zahra, Shahram Taheri, and Adnan Acan. "Multi-scale features for heartbeat classification using directed acyclic graph CNN." Applied Artificial Intelligence 32.7-8 (2018): 613-628.
+
+Taheri, Shahram, and Önsen Toygar. "Animal classification using facial images with score‐level fusion." IET computer vision 12.5 (2018): 679-685.
+
+Brass, Peter, et al. "On simultaneous planar graph embeddings." Computational Geometry 36.2 (2007): 117-130.
+
+Erten, Cesim, et al. "PersonaDrive: a method for the identification and prioritization of personalized cancer drivers." Bioinformatics 38.13 (2022): 3407-3414.
+
+Erten, Cesim, Aissa Houdjedj, and Hilal Kazan. "Ranking cancer drivers via betweenness-based outlier detection and random walks." BMC bioinformatics 22.1 (2021): 1-16.
